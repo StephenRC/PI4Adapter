@@ -5,4 +5,6 @@ Duet 3 Mini 5+ mount directly on it with the board hanging off the side,  5vdc r
 
 Deut 3 6HC, mount of the board, needs a extension to the 26 pin socket to get the board high enough.  PI4 requires external 5vdc.
 
-2/26/22: USB C 2.0 connector not tested.
+The JST-XH is for addons, like the official PI Touchscreen
+
+2/26/22: USB C connector not tested.
