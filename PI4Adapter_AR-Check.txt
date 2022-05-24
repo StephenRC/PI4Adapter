@@ -1,0 +1,15 @@
+AR checking written on:
+'C:\Users\srcas\OneDrive\Documents\GitHub\PI4Adapter\PI4Adapter_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+VIAS that Pass = 30; Fails = 0
+AR PTH violation of 0.1 at XY 124.377844,127.569325
+AR PTH violation of 0.1 at XY 133.017844,127.519648
+AR PTH violation of 0.1 at XY 124.377844,123.771094
+AR PTH violation of 0.1 at XY 133.017844,123.771094
+TH PADS that Pass = 108; Fails = 4
+NPTH PADS that Pass = 0; Fails = 0

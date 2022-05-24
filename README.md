@@ -7,4 +7,6 @@ Deut 3 6HC, mount of the board, needs a extension to the 26 pin socket to get th
 
 The JST-XH is for addons, like the official PI Touchscreen
 
-2/26/22: USB C connector not tested.
+Round Trakcs plugin used.  Add it in with the KiCAD plugin mamnager.
+
+USB C connector: Didn't fit, adjusted it.  Need to test again

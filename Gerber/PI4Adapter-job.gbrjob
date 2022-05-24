@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-02-24T11:08:30-05:00"
+    "CreationDate": "2022-05-07T15:13:21-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "PI4Adapter",
       "GUID": "50493441-6461-4707-9465-722e6b696361",
-      "Revision": "0.1a"
+      "Revision": "0.1b"
     },
     "Size": {
       "X": 39.4017,
